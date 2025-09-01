@@ -1,2 +1,2 @@
-# PF-Lab-3--Introduction-to-Github
+# PF-Lab-3
 INTRODUCTION TO GITHUB
